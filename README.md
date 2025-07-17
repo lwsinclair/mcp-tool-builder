@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hanweg-mcp-tool-builder-badge.png)](https://mseep.ai/app/hanweg-mcp-tool-builder)
+
 # WORK IN PROGRESS - USE WITH CAUTION - Windows
 
 # MCP Tool Builder
